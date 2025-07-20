@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siranjivipandi S</h1>
-<h3 align="center">"Skilled Software Engineer: Expertise in React.js, Redux, C#, C & C++, Java, JavaScript & Python, adept in PHP & MySQL | Accredited Cisco Certified Network Associate | Certified in Defensive Hacking | Proficient in .Net Development | Skilled in FrontEnd Development | Robust Analytical Skills"</h3>
+<h3 align="center">"Skilled Software Engineer: Expertise in Next.js, Spring Boot, React.js, Redux, C & C++, Java, JavaScript & Python, adept in PHP & MySQL | Accredited Cisco Certified Network Associate | Certified in Defensive Hacking | Proficient in .Net Development | Skilled in FrontEnd Development | Robust Analytical Skills"</h3>
 
 - 👨‍💻 All of my projects are available at [siranjivipandis-portfolio.netlify.app](https://siranjivipandis-portfolio.netlify.app/)
 
